@@ -3,7 +3,7 @@
 
 # Banking Transaction Analysis
 
-**Authors**: ![Edwin Korir](https://github.com/Edwinkorir38)
+**Authors**: [Edwin Korir](https://github.com/Edwinkorir38)
 
 ## Overview
 
