@@ -33,7 +33,7 @@ The primary stakeholders for this analysis are financial institutions, banking s
 
 ### Source of Data
 
-The dataset was sourced from ![kaggle](https://www.kaggle.com/datasets/ziya07/transaction-data-for-banking-operations).The dataset consists of banking transaction records, which include attributes such as transaction amount, type, status, timestamp, fraud flag, device used, and geographical information.
+The dataset was sourced from **[kaggle](https://www.kaggle.com/datasets/ziya07/transaction-data-for-banking-operations)**.The dataset consists of banking transaction records, which include attributes such as transaction amount, type, status, timestamp, fraud flag, device used, and geographical information.
 
 ### Description of Data
 
@@ -114,7 +114,7 @@ This dashboard provides an overview of transaction trends, fraud detection patte
 
 ![Dashboard Preview](images/Dashboard1.png)  
 
-![View the Interactive Dashboard](https://public.tableau.com/views/BankingTransactionAnalysisTrendsFraudPerformanceDashboard/Dashboard1)
+**[View the Interactive Dashboard](https://public.tableau.com/views/BankingTransactionAnalysisTrendsFraudPerformanceDashboard/Dashboard1)**
 
 ### **What This Dashboard Shows:**  
 
