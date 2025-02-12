@@ -1,5 +1,5 @@
 # Phase-1-Project-Banking-Transaction-Analysis
-![banner](images\istockphoto-1198048600-1024x1024.jpg)
+![banner](images/istockphoto-1198048600-1024x1024.jpg)
 
 # Banking Transaction Analysis
 
@@ -57,55 +57,55 @@ The dataset was sourced from ![kaggle](https://www.kaggle.com/datasets/ziya07/tr
 
 A bar chart showing the distribution of different transaction types.
 
-![graph 1](images\Distribution-of-Transactions-Across-Different-Types.png)
+![graph 1](images/Distribution-of-Transactions-Across-Different-Types.png)
 
 **2. Fraud Trends Across Transaction Types**
 
 A bar chart displaying fraud occurrences across various transaction types.
 
-![graph 2](images\Fraud-Trends-Across-Transaction-Types.png)
+![graph 2](images/Fraud-Trends-Across-Transaction-Types.png)
 
 **3. Transaction Success vs. Failure**
 
 A count plot comparing the number of successful versus failed transactions.
 
-![graph 3](images\Distribution-of-Successful-and-Failed-Transactions.png)
+![graph 3](images/Distribution-of-Successful-and-Failed-Transactions.png)
 
 **4. Fraud Transaction Trends  Over Time**
 
 A histogram visualizing the frequency of fraudulent transactions over time.
  
-![graph 4](images\Fraud-Transaction-Trends-Over-Time.png)
+![graph 4](images/Fraud-Transaction-Trends-Over-Time.png)
 
 **5. Fraud Transactions Trend Over Time(line plot)**
 
 A line plot visualizing the frequency of fraudulent transactions over time.
 
-![graph 5](images\Fraud-Transactions-Trend-Over-Time-lineplot.png)
+![graph 5](images/Fraud-Transactions-Trend-Over-Time-lineplot.png)
 
 **6. Fraud Cases by Device Type**
 
 A count plot highlighting which device types are most commonly associated with fraudulent transactions.
 
-![graph 6](images\Fraud-Cases-by-Device-Type.png)
+![graph 6](images/Fraud-Cases-by-Device-Type.png)
 
 **7. Geographical Distribution of Fraudulent Transactions**
 
 A scatter plot mapping the locations of fraudulent transactions based on latitude and longitude.
 
-![graph 7](images\Geographical-Distribution-of-Fraudulent-Transactions.png)
+![graph 7](images/Geographical-Distribution-of-Fraudulent-Transactions.png)
 
 **8. Fraud Cases Across Network Slices**
 
 a count plot displaying fraud cases across network slices
 
-![graph 8](images\Distribution-of-Fraud-Cases-Across-Network-Slices.png)
+![graph 8](images/Distribution-of-Fraud-Cases-Across-Network-Slices.png)
 
 **9.Impact of Latency On Transaction Status**
 
 Using a box plot to display impact of Latency on transaction status
 
-![graph 9](images\Impact-of-latency-on-Transaction-Status.png)
+![graph 9](images/Impact-of-latency-on-Transaction-Status.png)
 
 
 ##  Banking Transaction Analysis: Trends, Fraud & Performance Dashboard  
