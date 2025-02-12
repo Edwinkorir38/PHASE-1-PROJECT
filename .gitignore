@@ -1,11 +1,6 @@
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore data files (if they are large or temporary)
-Data/*.csv
-Data/*.xlsx
-Data/*.json
-
 # Ignore system files
 .DS_Store
 Thumbs.db
@@ -18,4 +13,4 @@ __pycache__/
 
 # Ignore logs and temporary files
 logs/
-*.log
+*.logs
