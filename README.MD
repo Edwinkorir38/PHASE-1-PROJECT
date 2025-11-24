@@ -174,9 +174,9 @@ Further analyses could provide additional insights to strengthen banking securit
 
 ## For More Information
 
-Please review my full analysis in [my Jupyter Notebook](Banking_Transaction.ipynb) or my [presentation](Presentation.pdf).
+Please review my full analysis in [my Jupyter Notebook](Banking_Transaction.ipynb) or  [presentation](Presentation.pdf).
 
-For any additional questions, please contact **[Edwin Korir](linkedin.com/in/edduh-kip-01170b288)**
+For any additional questions, please contact **[Edwin Korir](https://www.linkedin.com/in/edwin-korir-90a794382)**
 
 ## Repository Structure
 
